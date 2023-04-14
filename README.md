@@ -1,2 +1,2 @@
 # blogs
-a simple blogs using microservices architecture with Node JS + React JS
+a simple blogs app using microservices architecture with Node JS + React JS
